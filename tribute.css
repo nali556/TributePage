@@ -1,0 +1,15 @@
+#img-caption{
+  text-indent: 100px;
+  text-align: center;
+  
+}
+#tribute-info{
+  width: 700px;
+}
+#image
+{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin: auto;
+}
